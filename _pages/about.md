@@ -52,6 +52,7 @@ During my doctoral studies and current research, I focus on **QCD theory and exp
 
 ## 🏆 Selected Awards
 
+* **CAS President's Excellence Award**, Chinese Academy of Sciences (2025)
 * **Zhu Li Yue Hua Excellent Doctoral Student Scholarship**, CAS (2024)
 * **National Scholarship (Ph.D.)**, Ministry of Education of China (2023)
 * **First Class Academic Scholarship**, UCAS (2023)

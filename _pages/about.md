@@ -41,13 +41,9 @@ My research interests lie at the intersection of high-energy nuclear physics, qu
 
 During my doctoral studies and current research, I focus on **QCD theory and experimental related studies closely combined with large-scale scientific facilities**.
 
-1.  **Proton Structure & Mass Origin**: Extracted the proton trace anomaly energy and derived its relation to the vector meson-proton scattering length; extracted the strangeness sigma term of proton mass. (Reported by *phys.org*)
-2.  **Quantum Entanglement in QCD**: Proposed a new formula for proton quantum entanglement entropy, establishing duality with black hole entropy. Results align highly with H1 collaboration data.
-3.  **Pion Structure**: Determined the pion wave function in the non-perturbative region and its transverse structure with zero-input external models, consistent with Lattice QCD.
-4.  **New Physics Search**: Estimated tensor glueball events in heavy ion collisions and explored Dark Photon searches via $\eta$ rare decays for the future **HIAF** facility.
-5.  **QCD Evolution**: Derived evolution equations for valence and trapped gluons based on the Cho-Duan-Ge gauge potential decomposition.
-6.  **String Breaking & Hawking-Unruh Effect**: Located the string breaking point between quark-antiquark pairs using the Hawking-Unruh effect, determining the critical temperature for chiral symmetry restoration.
-7.  **Machine Learning in QCD**: First to obtain an analytical expression for color field distribution varying continuously with quark distance using Machine Learning (PINN), significantly reducing computational resources for non-perturbative QCD.
+1.  **Proton Structure & Mass Origin**
+2.  **Quantum Entanglement in QCD**
+3.  **Machine Learning in QCD**
 
 ---
 

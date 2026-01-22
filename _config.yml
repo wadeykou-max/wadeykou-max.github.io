@@ -151,18 +151,28 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
+    # ... 上面的 author: name, bio 等保持不变 ...
+  
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kouwei@impcas.ac.cn"
+    
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN"
+    
     - label: "INSPIRE-HEP"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://inspirehep.net/authors/1818795" 
+      icon: "ai ai-inspire"
+      url: "https://inspirehep.net/authors/1818795"
+    
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-4152-2150"
+    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wadeykou-max" # An array of links to social media profiles
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-fw"
-      url: "https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN"
+      url: "https://github.com/你的GitHub用户名" # ⚠️ 注意：请确保这里填的是你真实的 GitHub 用户名
 
 
 # Analytics

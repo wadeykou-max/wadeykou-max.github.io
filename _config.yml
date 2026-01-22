@@ -23,7 +23,7 @@ repository               : "" # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/images/profile.jpg"
   name             : "Wei Kou (寇维), Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher<br>Institute of Modern Physics, CAS<br>(中国科学院近代物理研究所)"

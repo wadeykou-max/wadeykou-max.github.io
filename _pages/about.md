@@ -15,8 +15,9 @@ I received my **Ph.D.** in Particle Physics and Nuclear Physics from IMP, CAS in
 My research interests lie at the intersection of high-energy nuclear physics, quantum entanglement, and machine learning.
 
 **Research Interests:**
-* Nucleon Structure, QCD Evolution Equations, Small-x Physics.
+* Nucleon Structure, Small-x Physics.
 * Quantum Entanglement & Machine Learning applications in High Energy Nuclear Physics.
+* Nuclear Fusion theory.
 
 ---
 

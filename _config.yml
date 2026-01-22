@@ -23,7 +23,7 @@ repository               : "wadeykou-max/wadeykou-max.github.io" # "academicpage
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wei Kou, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher<br>Institute of Modern Physics, CAS"

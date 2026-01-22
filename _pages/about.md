@@ -32,8 +32,7 @@ My research interests lie at the intersection of high-energy nuclear physics, qu
 ## 🎓 Education
 
 * **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)  
-    *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)* * Thesis: [Study on ... (Optional: You can add your thesis title here)]
-    * Supervisor: Prof. Xurong Chen
+    *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)* 
 * **B.Sc. in Physics (Innovation Experimental Class)** (2014.09 - 2018.06)  
     *Shaanxi Normal University (SNNU)*
 

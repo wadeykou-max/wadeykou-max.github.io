@@ -160,6 +160,9 @@ social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wadeykou-max" # An array of links to social media profiles
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square ai-fw"
+      url: "https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN"
 
 
 # Analytics

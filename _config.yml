@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wei Kou (寇维), Ph.D."
+title                    : "Wei Kou, Ph.D."
 title_separator          : "-"
-name                     : &name "Wei Kou (寇维), Ph.D."
+name                     : &name "Wei Kou, Ph.D."
 description              : &description "Postdoctoral Researcher in Particle & Nuclear Physics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wadeykou-max.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "" # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "/images/profile.jpg"
-  name             : "Wei Kou (寇维), Ph.D."
+  name             : "Wei Kou, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher<br>Institute of Modern Physics, CAS<br>(中国科学院近代物理研究所)"
   location         : "Huizhou, China"

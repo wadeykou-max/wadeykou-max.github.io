@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wei Kou (寇维)"
+title                    : "Wei Kou (寇维), Ph.D."
 title_separator          : "-"
-name                     : &name "Wei Kou (寇维)"
-description              : &description "PhD in Particle Physics and Nuclear Physics"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Wei Kou (寇维), Ph.D."
+description              : &description "Postdoctoral Researcher in Particle & Nuclear Physics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wadeykou-max.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Wei Kou (寇维)"
+  avatar           : "/images/profile.png"
+  name             : "Wei Kou (寇维), Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Focusing on AI for QCD"
-  location         : "Earth"
-  employer         : "Institute of Modern Physics"
+  bio              : "Postdoctoral Researcher<br>Institute of Modern Physics, CAS<br>(中国科学院近代物理研究所)"
+  location         : "Huizhou, China"
+  employer         : "Institute of Modern Physics, CAS<br>(中国科学院近代物理研究所)"
   uri              : # URL
   email            : "kouwei@impacs.ac.cn" 
 
@@ -150,7 +150,16 @@ og_description           :  # Social media default site image description
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kouwei@impcas.ac.cn"
+    - label: "INSPIRE-HEP"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://inspirehep.net/authors/1818795" 
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wadeykou-max" # An array of links to social media profiles
 
 
 # Analytics

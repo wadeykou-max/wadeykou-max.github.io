@@ -2,7 +2,7 @@
 title: "Extraction of omega n, omega p, and phi N scattering lengths"
 collection: publications
 permalink: /publication/2023-01-01-extraction-of-omega-n-omega-p-and-phi-n-scattering-lengths
-excerpt: 'Published in <i>Physical Review C</i>, 2023.'
+excerpt: ''
 date: 2023-01-01
 venue: 'Physical Review C'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

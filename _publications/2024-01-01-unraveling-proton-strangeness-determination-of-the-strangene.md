@@ -2,7 +2,7 @@
 title: "Unraveling proton strangeness: Determination of the strangeness sigma term with statistical significance"
 collection: publications
 permalink: /publication/2024-01-01-unraveling-proton-strangeness-determination-of-the-strangene
-excerpt: 'Published in <i>Physical Review D</i>, 2024.'
+excerpt: ''
 date: 2024-01-01
 venue: 'Physical Review D'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

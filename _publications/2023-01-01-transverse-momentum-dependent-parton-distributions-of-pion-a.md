@@ -2,7 +2,7 @@
 title: "Transverse momentum dependent parton distributions of pion at leading twist"
 collection: publications
 permalink: /publication/2023-01-01-transverse-momentum-dependent-parton-distributions-of-pion-a
-excerpt: 'Published in <i>Physical Review D</i>, 2023.'
+excerpt: ''
 date: 2023-01-01
 venue: 'Physical Review D'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

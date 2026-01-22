@@ -2,7 +2,7 @@
 title: "Exploring Short-Range Correlations in symmetric nuclei: Insights into contacts and entanglement entropy"
 collection: publications
 permalink: /publication/2024-01-01-exploring-short-range-correlations-in-symmetric-nuclei-insig
-excerpt: 'Published in <i>Physics Letters B</i>, 2024.'
+excerpt: ''
 date: 2024-01-01
 venue: 'Physics Letters B'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

@@ -2,7 +2,7 @@
 title: "Extraction of the proton mass radius from the vector meson photoproductions near thresholds"
 collection: publications
 permalink: /publication/2021-01-01-extraction-of-the-proton-mass-radius-from-the-vector-meson-p
-excerpt: 'Published in <i>Physical Review D</i>, 2021.'
+excerpt: ''
 date: 2021-01-01
 venue: 'Physical Review D'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

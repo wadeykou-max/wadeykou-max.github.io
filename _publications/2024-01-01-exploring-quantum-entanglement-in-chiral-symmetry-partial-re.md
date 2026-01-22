@@ -2,7 +2,7 @@
 title: "Exploring quantum entanglement in chiral symmetry partial restoration with 1+1 string model"
 collection: publications
 permalink: /publication/2024-01-01-exploring-quantum-entanglement-in-chiral-symmetry-partial-re
-excerpt: 'Published in <i>Physics Letters B</i>, 2024.'
+excerpt: ''
 date: 2024-01-01
 venue: 'Physics Letters B'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

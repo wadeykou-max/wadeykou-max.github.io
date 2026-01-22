@@ -2,7 +2,7 @@
 title: "The neutron and proton mass radii from the vector meson photoproduction data on the deuterium target"
 collection: publications
 permalink: /publication/2022-01-01-the-neutron-and-proton-mass-radii-from-the-vector-meson-phot
-excerpt: 'Published in <i>The European Physical Journal A</i>, 2022.'
+excerpt: ''
 date: 2022-01-01
 venue: 'The European Physical Journal A'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

@@ -2,7 +2,7 @@
 title: "Mechanical structures inside proton with configurational entropy language"
 collection: publications
 permalink: /publication/2023-01-01-mechanical-structures-inside-proton-with-configurational-ent
-excerpt: 'Published in <i>Physics Letters B</i>, 2023.'
+excerpt: ''
 date: 2023-01-01
 venue: 'Physics Letters B'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

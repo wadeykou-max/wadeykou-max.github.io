@@ -2,7 +2,7 @@
 title: "High-Q2 Behavior of the Proton Structure Function through the Balitsky-Kovchegov Equation"
 collection: publications
 permalink: /publication/2025-01-01-high-q2-behavior-of-the-proton-structure-function-through-th
-excerpt: 'Published in <i>Chinese Physics Letters</i>, 2025.'
+excerpt: ''
 date: 2025-01-01
 venue: 'Chinese Physics Letters'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

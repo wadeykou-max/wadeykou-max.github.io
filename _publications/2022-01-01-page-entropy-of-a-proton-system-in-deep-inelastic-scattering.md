@@ -2,7 +2,7 @@
 title: "Page entropy of a proton system in deep inelastic scattering at small x"
 collection: publications
 permalink: /publication/2022-01-01-page-entropy-of-a-proton-system-in-deep-inelastic-scattering
-excerpt: 'Published in <i>Physical Review D</i>, 2022.'
+excerpt: ''
 date: 2022-01-01
 venue: 'Physical Review D'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

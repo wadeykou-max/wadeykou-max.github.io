@@ -2,7 +2,7 @@
 title: "Gluon distribution and mass decomposition of the pion and kaon"
 collection: publications
 permalink: /publication/2024-01-01-gluon-distribution-and-mass-decomposition-of-the-pion-and-ka
-excerpt: 'Published in <i>The European Physical Journal C</i>, 2024.'
+excerpt: ''
 date: 2024-01-01
 venue: 'The European Physical Journal C'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

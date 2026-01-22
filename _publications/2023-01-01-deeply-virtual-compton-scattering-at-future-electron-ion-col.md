@@ -2,7 +2,7 @@
 title: "Deeply virtual compton scattering at future electron-ion colliders"
 collection: publications
 permalink: /publication/2023-01-01-deeply-virtual-compton-scattering-at-future-electron-ion-col
-excerpt: 'Published in <i>The European Physical Journal C</i>, 2023.'
+excerpt: ''
 date: 2023-01-01
 venue: 'The European Physical Journal C'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

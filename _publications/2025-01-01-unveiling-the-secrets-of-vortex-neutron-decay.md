@@ -2,7 +2,7 @@
 title: "Unveiling the Secrets of Vortex Neutron Decay"
 collection: publications
 permalink: /publication/2025-01-01-unveiling-the-secrets-of-vortex-neutron-decay
-excerpt: 'Published in <i>Physics Letters B</i>, 2025.'
+excerpt: ''
 date: 2025-01-01
 venue: 'Physics Letters B'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

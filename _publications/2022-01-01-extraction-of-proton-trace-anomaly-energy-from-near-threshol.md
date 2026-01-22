@@ -2,7 +2,7 @@
 title: "Extraction of proton trace anomaly energy from near threshold phi and J/psi photo-productions"
 collection: publications
 permalink: /publication/2022-01-01-extraction-of-proton-trace-anomaly-energy-from-near-threshol
-excerpt: 'Published in <i>The European Physical Journal A</i>, 2022.'
+excerpt: ''
 date: 2022-01-01
 venue: 'The European Physical Journal A'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

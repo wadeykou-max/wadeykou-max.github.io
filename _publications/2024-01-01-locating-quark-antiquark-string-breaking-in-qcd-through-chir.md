@@ -2,7 +2,7 @@
 title: "Locating Quark-Antiquark String Breaking in QCD through Chiral Symmetry Restoration and Hawking-Unruh Effect"
 collection: publications
 permalink: /publication/2024-01-01-locating-quark-antiquark-string-breaking-in-qcd-through-chir
-excerpt: 'Published in <i>Physics Letters B</i>, 2024.'
+excerpt: ''
 date: 2024-01-01
 venue: 'Physics Letters B'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

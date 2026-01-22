@@ -2,7 +2,7 @@
 title: "Pion parton distribution functions with the nonrelativistic constituent quark model"
 collection: publications
 permalink: /publication/2023-01-01-pion-parton-distribution-functions-with-the-nonrelativistic-
-excerpt: 'Published in <i>Nuclear Physics B</i>, 2023.'
+excerpt: ''
 date: 2023-01-01
 venue: 'Nuclear Physics B'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

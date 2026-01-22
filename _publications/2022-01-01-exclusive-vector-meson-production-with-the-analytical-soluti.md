@@ -2,7 +2,7 @@
 title: "Exclusive vector meson production with the analytical solution of Balitsky-Kovchegov equation"
 collection: publications
 permalink: /publication/2022-01-01-exclusive-vector-meson-production-with-the-analytical-soluti
-excerpt: 'Published in <i>Chinese Physics C</i>, 2022.'
+excerpt: ''
 date: 2022-01-01
 venue: 'Chinese Physics C'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

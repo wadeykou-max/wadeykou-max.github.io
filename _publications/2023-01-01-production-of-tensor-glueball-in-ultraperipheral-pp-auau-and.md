@@ -2,7 +2,7 @@
 title: "Production of tensor glueball in ultraperipheral pp, AuAu and PbPb collisions"
 collection: publications
 permalink: /publication/2023-01-01-production-of-tensor-glueball-in-ultraperipheral-pp-auau-and
-excerpt: 'Published in <i>The European Physical Journal C</i>, 2023.'
+excerpt: ''
 date: 2023-01-01
 venue: 'The European Physical Journal C'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

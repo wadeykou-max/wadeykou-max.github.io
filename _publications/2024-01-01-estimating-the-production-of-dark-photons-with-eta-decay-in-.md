@@ -2,7 +2,7 @@
 title: "Estimating the production of dark photons with eta decay in High-energy Collisions"
 collection: publications
 permalink: /publication/2024-01-01-estimating-the-production-of-dark-photons-with-eta-decay-in-
-excerpt: 'Published in <i>Chinese Physics C</i>, 2024.'
+excerpt: ''
 date: 2024-01-01
 venue: 'Chinese Physics C'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

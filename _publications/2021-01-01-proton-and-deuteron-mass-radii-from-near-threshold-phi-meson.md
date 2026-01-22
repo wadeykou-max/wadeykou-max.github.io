@@ -2,7 +2,7 @@
 title: "Proton and deuteron mass radii from near-threshold phi-meson photoproduction"
 collection: publications
 permalink: /publication/2021-01-01-proton-and-deuteron-mass-radii-from-near-threshold-phi-meson
-excerpt: 'Published in <i>Physical Review D</i>, 2021.'
+excerpt: ''
 date: 2021-01-01
 venue: 'Physical Review D'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

@@ -2,7 +2,7 @@
 title: "Machine Learning Insights into Quark-Antiquark Interactions: Probing Field Distributions and String Tension in QCD"
 collection: publications
 permalink: /publication/2025-01-01-machine-learning-insights-into-quark-antiquark-interactions-
-excerpt: 'Published in <i>The European Physical Journal C</i>, 2025.'
+excerpt: ''
 date: 2025-01-01
 venue: 'The European Physical Journal C'
 paperurl: 'https://scholar.google.com/citations?user=08W3KKQAAAAJ&hl=zh-CN'

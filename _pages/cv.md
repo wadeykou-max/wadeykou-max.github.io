@@ -20,7 +20,7 @@ redirect_from:
 
 * **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)
   * *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
-  * Research Interests: Nucleon Structure, QCD Evolution Equations, Small-$x$ Physics, Heavy Ion Collisions, Machine Learning in HEP.
+  * Research Interests: Nucleon Structure, Small-x Physics, Machine Learning in HEP, Nuclear Fusion theory.
 
 * **B.Sc. in Physics (Innovation Experimental Class)** (2014.09 - 2018.06)
   * *Shaanxi Normal University (SNNU)*

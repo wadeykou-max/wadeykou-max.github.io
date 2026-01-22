@@ -10,7 +10,7 @@ redirect_from:
 
 I am a **Postdoctoral Researcher** at the [Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)](http://english.imp.cas.cn/). 
 
-I received my **Ph.D.** in Particle Physics and Nuclear Physics from IMP, CAS in June 2025, supervised by Prof. Xurong Chen.
+I received my **Ph.D.** in Particle Physics and Nuclear Physics from IMP, CAS in June 2025.
 
 My research interests lie at the intersection of high-energy nuclear physics, quantum entanglement, and machine learning.
 

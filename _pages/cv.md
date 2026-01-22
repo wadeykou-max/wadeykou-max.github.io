@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 💼 Work Experience
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Postdoctoral Researcher** (2025.07 - Present)
+  * *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 🎓 Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)
+  * *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
+  * Supervisor: Prof. Xurong Chen
+  * Research Interests: Nucleon Structure, QCD Evolution Equations, Small-$x$ Physics, Heavy Ion Collisions, Machine Learning in HEP.
+
+* **B.Sc. in Physics (Innovation Experimental Class)** (2014.09 - 2018.06)
+  * *Shaanxi Normal University (SNNU)*
+
+---
+
+## 🛠️ Skills
+
+* **Programming Languages**: 
+  * Python, C++ (Independent scientific computing & machine learning development).
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Software & Tools**: 
+  * Mathematica, TensorFlow, PyTorch, ROOT (CERN).
+  * Linux/Unix systems, High-Performance Computing (HPC).
+  * LaTeX, Git.
+
+* **Languages**:
+  * Chinese (Native), English (Professional Working Proficiency).
+
+---
+
+## 🏆 Honors & Awards
+
+* **CAS President's Excellence Award** (2025)
+* **Zhu Li Yue Hua Excellent Doctoral Student Scholarship**, CAS (2024)
+* **National Scholarship (Ph.D.)**, Ministry of Education of China (2023)
+* **First Class Academic Scholarship**, UCAS (2023, 2022, 2021)

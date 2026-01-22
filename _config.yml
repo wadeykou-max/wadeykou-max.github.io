@@ -23,7 +23,7 @@ repository               : "" # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "https://github.com/wadeykou-max/wadeykou-max.github.io/blob/master/images/profile.jpg"
   name             : "Wei Kou, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher<br>Institute of Modern Physics, CAS"

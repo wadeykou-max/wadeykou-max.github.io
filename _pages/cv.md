@@ -20,7 +20,6 @@ redirect_from:
 
 * **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)
   * *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
-  * Supervisor: Prof. Xurong Chen
   * Research Interests: Nucleon Structure, QCD Evolution Equations, Small-$x$ Physics, Heavy Ion Collisions, Machine Learning in HEP.
 
 * **B.Sc. in Physics (Innovation Experimental Class)** (2014.09 - 2018.06)

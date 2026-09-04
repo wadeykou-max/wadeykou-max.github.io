@@ -1,42 +1,39 @@
 ---
-
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-
-- /resume
-
+  - /resume
 ---
 
 {% include base_path %}
 
 ## 💼 Academic Appointments
 
-* **Postdoctoral Researcher** (2025.07 - Present)
+- **Postdoctoral Researcher** (2025.07 - Present)  
   *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
 
 ---
 
 ## 🎓 Education
 
-* **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)
+- **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)  
   *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
 
-* **B.Sc. in Physics, Innovation Experimental Class** (2014.09 - 2018.06)
+- **B.Sc. in Physics, Innovation Experimental Class** (2014.09 - 2018.06)  
   *Shaanxi Normal University (SNNU)*
 
 ---
 
 ## 🔬 Research Interests
 
-* **Hadron and Nucleon Structure**
-* **Small-\(x\) QCD and Diffractive Processes**
-* **Parton Distribution Functions and Hadron Mass Structure**
-* **Quantum Information and Entanglement in QCD and Nuclear Physics**
-* **Physics-Informed and Physics-Guided Machine Learning for Strong-Interaction Physics**
-* **Muon-Catalyzed Fusion and Reaction Kinetics**
+- **Hadron and Nucleon Structure**
+- **Small-\(x\) QCD and Diffractive Processes**
+- **Parton Distribution Functions and Hadron Mass Structure**
+- **Quantum Information and Entanglement in QCD and Nuclear Physics**
+- **Physics-Informed and Physics-Guided Machine Learning for Strong-Interaction Physics**
+- **Muon-Catalyzed Fusion and Reaction Kinetics**
 
 ---
 
@@ -54,32 +51,32 @@ More recently, I have also been working on theoretical aspects of **muon-catalyz
 
 ### Programming Languages
 
-* **Python**
-* **C++**
+- **Python**
+- **C++**
 
 Scientific computing, numerical simulation, data analysis, and machine-learning development.
 
 ### Scientific Software and Tools
 
-* Mathematica
-* TensorFlow
-* PyTorch
-* ROOT (CERN)
-* Linux / Unix
-* High-Performance Computing (HPC)
-* LaTeX
-* Git
+- Mathematica
+- TensorFlow
+- PyTorch
+- ROOT (CERN)
+- Linux / Unix
+- High-Performance Computing (HPC)
+- LaTeX
+- Git
 
 ### Languages
 
-* **Chinese:** Native
-* **English:** Professional Working Proficiency
+- **Chinese:** Native
+- **English:** Professional Working Proficiency
 
 ---
 
 ## 🏆 Honors & Awards
 
-* **CAS President's Excellence Award**, Chinese Academy of Sciences (2025)
-* **Zhu Li Yue Hua Excellent Doctoral Student Scholarship**, Chinese Academy of Sciences (2024)
-* **National Scholarship for Doctoral Students**, Ministry of Education of China (2023)
-* **First-Class Academic Scholarship**, University of Chinese Academy of Sciences (2021, 2022, 2023)
+- **CAS President's Excellence Award**, Chinese Academy of Sciences (2025)
+- **Zhu Li Yue Hua Excellent Doctoral Student Scholarship**, Chinese Academy of Sciences (2024)
+- **National Scholarship for Doctoral Students**, Ministry of Education of China (2023)
+- **First-Class Academic Scholarship**, University of Chinese Academy of Sciences (2021, 2022, 2023)

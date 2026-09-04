@@ -1,14 +1,11 @@
 ---
-
 permalink: /
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
-
-- /about/
-- /about.html
-
+  - /about/
+  - /about.html
 ---
 
 I am a **Postdoctoral Researcher** at the [Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)](http://english.imp.cas.cn/).
@@ -19,27 +16,27 @@ My research focuses on **hadron and nuclear structure in Quantum Chromodynamics 
 
 ### Research Interests
 
-* Hadron and Nucleon Structure, Small-\(x\) QCD and Diffractive Processes
-* Parton Distributions, Proton Mass and Mechanical Structure
-* Quantum Entanglement and Information-Theoretic Approaches to QCD and Nuclear Physics
-* Physics-Informed and Physics-Guided Machine Learning for Strong-Interaction Physics
-* Muon-Catalyzed Fusion and Related Reaction Kinetics
+- Hadron and Nucleon Structure, Small-\(x\) QCD and Diffractive Processes
+- Parton Distributions, Proton Mass and Mechanical Structure
+- Quantum Entanglement and Information-Theoretic Approaches to QCD and Nuclear Physics
+- Physics-Informed and Physics-Guided Machine Learning for Strong-Interaction Physics
+- Muon-Catalyzed Fusion and Related Reaction Kinetics
 
 ---
 
 ## 💼 Academic Appointments
 
-* **Postdoctoral Researcher** (2025.07 - Present)
+- **Postdoctoral Researcher** (2025.07 - Present)  
   *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
 
 ---
 
 ## 🎓 Education
 
-* **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)
+- **Ph.D. in Particle Physics and Nuclear Physics** (2019.09 - 2025.06)  
   *Institute of Modern Physics, Chinese Academy of Sciences (IMP, CAS)*
 
-* **B.Sc. in Physics (Innovation Experimental Class)** (2014.09 - 2018.06)
+- **B.Sc. in Physics (Innovation Experimental Class)** (2014.09 - 2018.06)  
   *Shaanxi Normal University (SNNU)*
 
 ---
@@ -74,6 +71,6 @@ I am also interested in the theoretical description of **muon-catalyzed fusion (
 
 ## 🏆 Selected Awards
 
-* **CAS President's Excellence Award**, Chinese Academy of Sciences (2025)
-* **Zhu Li Yue Hua Excellent Doctoral Student Scholarship**, CAS (2024)
-* **National Scholarship (Ph.D.)**, Ministry of Education of China (2023)
+- **CAS President's Excellence Award**, Chinese Academy of Sciences (2025)
+- **Zhu Li Yue Hua Excellent Doctoral Student Scholarship**, Chinese Academy of Sciences (2024)
+- **National Scholarship for Doctoral Students**, Ministry of Education of China (2023)
